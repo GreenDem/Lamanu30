@@ -1,0 +1,3 @@
+.firstLine {display: flex;}
+.firstLineLeft {height: 40px ; background-color: green;flex: 80%;}
+.firstLineRight {background-color: blue; height: 40px;flex: 20%;}
