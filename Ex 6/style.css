@@ -1,3 +1,35 @@
-.firstLine {display: flex;}
-.firstLineLeft {height: 40px ; background-color: green;flex: 80%;}
-.firstLineRight {background-color: blue; height: 40px;flex: 20%;}
+/* BIG FLEX BLOCK */
+.flexLine {display: flex;}
+
+/* Heigh */
+.bigBox {min-height: 50%;}
+.first {height: 10%;}
+.second {height: 30%;}
+.third {height: 60%;}
+.fiftyFifty {height: 50%;} 
+
+/* First Block */
+.firstLineLeft {background-color: #2fcc72;flex: 80%;}
+.firstLineRight {background-color: #2980bb;flex: 20%;}
+
+/* second Block */
+
+/* RED */
+.bigRed {flex: 33.33%;background-color: #E74C3C;}
+/* RED BLOCK SIDE */
+.rightRed {flex: 66.66%;} 
+
+/* RED BLOCK SIDE FIRST HALF */
+.topRight {background-color: #E67E22;flex: 50%;}
+.topLeft {background-color: #95A5A6;flex: 50%;} 
+/* RED BLOCK SIDE SECOND HALF */
+.bottomLeft{background-color: #F39C12;flex: 33%;}
+.bottomMidlle {background-color: #16A085;flex: 33%;}
+.bottomRight {background-color: #D35400;flex: 33%;}
+
+
+/* third Block */
+.lastLine {background-color: #2C3E50;}
+
+html {height: 100%;}
+body {min-height: 100%;}
