@@ -2,7 +2,7 @@
 .flexLine {display: flex;}
 
 /* Heigh */
-.bigBox {min-height: 50%;}
+.bigBox {min-height: 50vh;height: 50%;}
 .first {height: 10%;}
 .second {height: 30%;}
 .third {height: 60%;}
