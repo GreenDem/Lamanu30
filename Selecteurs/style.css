@@ -1,0 +1,7 @@
+html {font-family: 'Coming Soon', cursive;}
+span > span {color: pink;}
+li:nth-child(4) {color: gray;}
+/* ol > li {color: blue;} */
+ul:first-child {color: red;}
+ul:nth-child(2) {color: black;}
+ul:nth-child(3) {color: black;}
