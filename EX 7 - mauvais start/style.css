@@ -1,0 +1,21 @@
+.form {}
+
+/* COLORS & BORDER*/
+.blue {background-color: #2574a9;}
+.purple {background-color: #9a12b3;}
+.pink {background-color: #db0a5b;}
+.border {border-style: ridge #a1a1a1;}
+
+/* Z INDEX */
+.inFront {z-index: 2; position: absolute; margin-left: 4px;top: 4px;}
+.inBack {z-index: 1;position: relative;}
+
+/* Height */
+.blueHeight {height: 96px;}
+.pPHeight {height: 192px;}
+.bigBox {height: 480px;}
+.miniBox {height: 10px; width: 20%;}
+
+.margin {margin-bottom: 4px;}
+
+.rela {position: relative;}
