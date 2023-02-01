@@ -1,0 +1,26 @@
+/* Banner */
+html{
+
+}
+header{
+    background-image: url(../img/landscapes/landscape1.jpg);
+    background-size: cover;
+    height: 720px;
+    background-repeat: no-repeat;
+
+}
+.flextop{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.boxTop{
+    margin-right: 90px;
+}
+.topfirst{
+    
+}
+
+body{ 
+
+header
+
