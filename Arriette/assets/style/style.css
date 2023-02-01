@@ -11,7 +11,8 @@ header{
 }
 .flextop{
     display: flex;
-    flex-direction: row-reverse;
+    /* flex-direction: row-reverse; */
+    text-align: right;
 }
 .boxTop{
     margin-right: 90px;
